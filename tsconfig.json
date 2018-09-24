@@ -1,0 +1,16 @@
+{
+    "files": [
+        "*.ts"
+    ],
+
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es5",
+        //"outFile": "site.js"
+
+        "lib": [
+            "dom",
+            "es2015"
+        ]
+    }
+}
